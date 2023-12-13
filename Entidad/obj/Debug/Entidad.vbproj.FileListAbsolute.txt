@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\HikariTienda\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\Acer\source\repos\HikariTienda\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\HikariTienda\Entidad\obj\Debug\Entidad.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\HikariTienda\Entidad\bin\Debug\Entidad.exe.config
+C:\Users\Acer\source\repos\HikariTienda\Entidad\bin\Debug\Entidad.exe
+C:\Users\Acer\source\repos\HikariTienda\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Acer\source\repos\HikariTienda\Entidad\bin\Debug\Entidad.xml
+C:\Users\Acer\source\repos\HikariTienda\Entidad\obj\Debug\Entidad.exe
+C:\Users\Acer\source\repos\HikariTienda\Entidad\obj\Debug\Entidad.xml
+C:\Users\Acer\source\repos\HikariTienda\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Acer\source\repos\HikariTienda\Entidad\obj\Debug\Entidad.vbproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\HikariTienda\Entidad\obj\Debug\Entidad.vbproj.SuggestedBindingRedirects.cache
